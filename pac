@@ -1,4 +1,4 @@
-var proxy = "PROXY 104.16.21.249:443;";
+var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
         
 var domains = {
   "huaglad.com": 1,
